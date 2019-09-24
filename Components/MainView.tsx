@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { StyleSheet, View, Text, Platform } from 'react-native';
+import { StyleSheet, Platform } from 'react-native';
 
 import StoreTab from './AppTabNavigator/StoreTab';
 import UserTab from './AppTabNavigator/UserTab';
